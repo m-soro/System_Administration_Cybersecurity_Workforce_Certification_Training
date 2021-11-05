@@ -7,5 +7,3 @@ nav_order: 2
 ---
 
 # CORE 1 and CORE 2
-
-CompTIA A+ modules
