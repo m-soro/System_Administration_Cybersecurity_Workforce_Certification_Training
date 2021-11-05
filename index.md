@@ -11,7 +11,6 @@ nav_order: 1
 ![image](https://user-images.githubusercontent.com/63247801/134220248-3ebfa24f-a2dd-4dc7-ab2e-d30bc2c95070.png)
 
 
-
 ### This track offers six courses that cover the fundamentals of computer systems, networks and cybersecurity, as well as advanced topics in cyber infrastructure development and security protection.
 
 > The track focuses on developing learner’s skills and abilities on managing and administration of critical infrastructures and analyzing and evaluating, cyber security vulnerability and threats.

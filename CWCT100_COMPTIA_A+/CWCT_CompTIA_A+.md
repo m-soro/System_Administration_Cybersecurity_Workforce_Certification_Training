@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CWCT_CompTIA_A+
+title: CWCT CompTIA A+
 has_children: true
 grand_parent: CWCT100_COMPTIA_A+
 nav_order: 2

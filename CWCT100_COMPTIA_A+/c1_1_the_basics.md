@@ -5,6 +5,8 @@ parent:  CWCT_CompTIA_A+
 nav_order: 1
 ---
 
+![Certificate](https://www.linkedin.com/learning/certificates/0ede45bb324b5adb3e90c346ab1973870c421ecd63b81e8627f0e7782721b852?trk=share_certificate)
+
 ## Chapter1: Safety and Professionalism - Objective 4.7
 
 ### Professional Communication
