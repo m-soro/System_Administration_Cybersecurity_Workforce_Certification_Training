@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Microprocessing and RAM
-parent:  Core one
+title: Core 1 - 2 Microprocessing and RAM
+parent:  CWCT_CompTIA_A+
 nav_order: 2
 ---
 ## Microprocessing - Objective 3.5

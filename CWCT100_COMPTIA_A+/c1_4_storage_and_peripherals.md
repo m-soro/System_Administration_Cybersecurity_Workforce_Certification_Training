@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Storage and Peripherals
-parent:  Core one
+title: Core 1 - 4 Storage and Peripherals
+parent:  CWCT_CompTIA_A+
 nav_order: 4
 ---
 # Storage and Peripherals

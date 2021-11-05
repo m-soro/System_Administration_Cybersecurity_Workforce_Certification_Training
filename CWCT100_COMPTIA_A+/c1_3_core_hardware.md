@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Core Hardware
-parent:  Core one
+title: Core 1 - 3 Core Hardware
+parent: CWCT_CompTIA_A+
 nav_order: 3
 ---
 # CompTIA A+ (220-1001) Cert Prep 3: Core Hardware
