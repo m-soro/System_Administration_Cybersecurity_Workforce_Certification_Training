@@ -5,7 +5,7 @@ parent:  CWCT_CompTIA_A+
 nav_order: 1
 ---
 
-![Certificate](/files/CertificateOfCompletion_CompTIA A 2201001 and 2201002 Cert 01 Prep The Basics.pdf)
+![Certificate]()
 
 ## Chapter1: Safety and Professionalism - Objective 4.7
 
