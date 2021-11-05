@@ -5,7 +5,7 @@ parent:  CWCT_CompTIA_A+
 nav_order: 1
 ---
 
-![Certificate](![Screen Shot 2021-11-05 at 6 21 32 AM](https://user-images.githubusercontent.com/63247801/140495920-6b921d6c-9458-414e-9e76-bd648dd01be0.png)
+![Certificate]()
 
 ## Chapter1: Safety and Professionalism - Objective 4.7
 
