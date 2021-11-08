@@ -4,6 +4,10 @@ title: Core 1 - 4 Storage and Peripherals
 parent:  CWCT CompTIA A+
 nav_order: 4
 ---
+
+
+
+
 # Storage and Peripherals
 
 ## 1. Mass Storage Technologies

@@ -4,6 +4,10 @@ title: Core 1 - 2 Microprocessing and RAM
 parent:  CWCT CompTIA A+
 nav_order: 2
 ---
+
+![image](../CompTIA_A+_Prep_2_Microprocessing_and_RAM.png)
+
+---
 ## Microprocessing - Objective 3.5
 > Given a scenario, install and configure motherboards, CPUs and add-on cards
 

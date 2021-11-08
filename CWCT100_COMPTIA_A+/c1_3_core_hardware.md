@@ -4,6 +4,11 @@ title: Core 1 - 3 Core Hardware
 parent:  CWCT CompTIA A+
 nav_order: 3
 ---
+
+![image](../CompTIA_A+_Prep_3_Core_Hardware.png)
+
+---
+
 # CompTIA A+ (220-1001) Cert Prep 3: Core Hardware
 > Learn about essential hardware components, devices, and processes as you prepare to take and pass the CompTIA A+ Core 1 (220-1001) exam.
 
