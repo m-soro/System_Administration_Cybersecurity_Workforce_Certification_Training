@@ -5,7 +5,7 @@ parent:  CWCT CompTIA A+
 nav_order: 1
 ---
 
-![image](/CWCT_files/CompTIA_A+_0_The_Basics.png)
+![image](../CWCT_files/CompTIA_A+_0_The_Basics.png)
 
 ---
 
