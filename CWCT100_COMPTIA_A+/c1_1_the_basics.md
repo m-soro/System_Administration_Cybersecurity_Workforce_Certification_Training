@@ -5,6 +5,10 @@ parent:  CWCT CompTIA A+
 nav_order: 1
 ---
 
+![image](/CWCT_files/CompTIA_A+_0_The_Basics.png)
+
+---
+
 ## Chapter1: Safety and Professionalism - Objective 4.7
 
 ### Professional Communication
