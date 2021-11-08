@@ -5,7 +5,7 @@ parent:  CWCT CompTIA A+
 nav_order: 2
 ---
 
-![image](../CompTIA_A+_Prep_2_Microprocessing_and_RAM.png)
+![image](../CWCT_files/CompTIA_A+_Prep_2_Microprocessing_and_RAM.png)
 
 ---
 ## Microprocessing - Objective 3.5

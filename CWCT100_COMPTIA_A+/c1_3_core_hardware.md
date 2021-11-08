@@ -5,7 +5,7 @@ parent:  CWCT CompTIA A+
 nav_order: 3
 ---
 
-![image](../CompTIA_A+_Prep_3_Core_Hardware.png)
+![image](../CWCT_files/CompTIA_A+_Prep_3_Core_Hardware.png)
 
 ---
 
