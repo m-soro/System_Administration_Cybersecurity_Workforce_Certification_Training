@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Core 1 - 1 The Basics
-parent:  CWCT_CompTIA_A+
+parent:  CWCT CompTIA A+
 nav_order: 1
 ---
 
