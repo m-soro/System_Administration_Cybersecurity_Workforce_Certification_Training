@@ -182,11 +182,17 @@ S.M.A.R.T. - if a drive starts to act up
 * Compact discs (CDs) store 650-700 MB of data
 * Digital video discs (DVDs) store from 4.37 GB to 15.9 GB
 * Blue-rays store from 15.6 GB to 50 GB capacity
+
+![Screen Shot 2021-11-10 at 6 35 05 AM](https://user-images.githubusercontent.com/63247801/141106063-b0fe41c6-a8f7-476f-848f-173cc1afb34e.png)
+
 * All optical media comes in read only (ROM), write once (R) and write many (RW) versions
 
 ### Universal Serial Bus (USB)
 
 * For exam, make sure you know USB speeds
+
+![Screen Shot 2021-11-10 at 6 36 00 AM](https://user-images.githubusercontent.com/63247801/141106184-9b47a35d-9bd7-4c5c-b19a-e8a0f8434d13.png)
+
 * Recognize the connectors
 
 #### Quick Review
