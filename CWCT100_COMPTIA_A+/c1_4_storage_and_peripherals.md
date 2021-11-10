@@ -175,3 +175,27 @@ S.M.A.R.T. - if a drive starts to act up
 * Review the many symptoms in this episode!
 
 ### 3. Essential Peripherals
+
+### Optical Media
+
+#### Quick Review
+* Compact discs (CDs) store 650-700 MB of data
+* Digital video discs (DVDs) store from 4.37 GB to 15.9 GB
+* Blue-rays store from 15.6 GB to 50 GB capacity
+* All optical media comes in read only (ROM), write once (R) and write many (RW) versions
+
+### Universal Serial Bus (USB)
+
+* For exam, make sure you know USB speeds
+* Recognize the connectors
+
+#### Quick Review
+
+* Universal Serial Bus (USB) 1.1 comes in 1.5 MB/s and 12 Mbps; USB 2.0 runs at 480 Mbps
+* USB 3.0 runs at Gbps; USB 3.1 runs at 10 Gbps
+* USB versions often use colors to show version
+* USB connectors come in many types: Type-A, Type-B, Type-C, standard, mini and micro.
+
+### Understanding USB
+
+USB Controller
