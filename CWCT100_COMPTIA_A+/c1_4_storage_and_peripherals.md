@@ -190,8 +190,10 @@ S.M.A.R.T. - if a drive starts to act up
 ### Universal Serial Bus (USB)
 
 * For exam, make sure you know USB speeds
+* 
+![Screen Shot 2021-11-11 at 5 49 17 AM](https://user-images.githubusercontent.com/63247801/141285452-28c7d772-2dda-4fb8-ade3-37019bd3ab27.png)
 
-![Screen Shot 2021-11-10 at 6 36 00 AM](https://user-images.githubusercontent.com/63247801/141106184-9b47a35d-9bd7-4c5c-b19a-e8a0f8434d13.png)
+
 
 * Recognize the connectors
 
@@ -204,4 +206,84 @@ S.M.A.R.T. - if a drive starts to act up
 
 ### Understanding USB
 
-USB Controller
+**USB Controller**
+
+![Screen Shot 2021-11-11 at 5 52 27 AM](https://user-images.githubusercontent.com/63247801/141285856-756e4e77-640e-4aa1-b9c7-beeddab823c4.png)
+
+![Screen Shot 2021-11-10 at 6 36 00 AM](https://user-images.githubusercontent.com/63247801/141106184-9b47a35d-9bd7-4c5c-b19a-e8a0f8434d13.png)
+
+#### Quick Review
+* All USB devices connect to the USB controllers built into the motherboard of the system; the USB controller is in charge of all connected USB devices
+* This creates an upstream/downstream concept
+* USB Type-A connectors connect downstream USB Type-B connectors connect upstream, though there are exceptions
+
+### Configuring USB
+
+* **Human Interface Devices(HID)** makes keyboard and mice work, base driver
+* **Disable USB Port**
+* **USB Lock**
+
+#### Quick Review
+* USB devices must have a device driver
+* Operating systems come with thousands of built-in device drivers
+* In some cases, you may need to download the correct driver for a USB device from the Internet
+
+### Thunder and Lightning
+
+Thunderbolt kind of a mix of PCIe and display: 
+
+![Screen Shot 2021-11-11 at 6 05 37 AM](https://user-images.githubusercontent.com/63247801/141287666-40422749-0c31-4f53-91ee-50f73518d4a2.png)
+![Screen Shot 2021-11-11 at 6 06 16 AM](https://user-images.githubusercontent.com/63247801/141287758-089b0e7e-5f95-48fe-bc18-c66a0b77b675.png)
+![Screen Shot 2021-11-11 at 6 06 30 AM](https://user-images.githubusercontent.com/63247801/141287801-0af32eda-059f-4044-8c8d-cc0d620f0c0c.png)
+
+Lightning - exclusive to Apple
+
+Charging and data transfer, slower than Thuderbolt
+
+#### Quick Review
+* Thuderbolt is a general purpose I/O port that runs at 10Gbps up to 40 Gbps
+* Thunderbolt uses a mini DisplayPort or a USB C connector
+* The Lightning standard is exlusive to Apple products
+* Lightning uses a proprietary lightning connector
+
+### Keyboard and Mice
+
+#### Quick Review
+* Keyboards use either a USB or PS/2 connection
+* Mice almost exclusively use USB
+* Game controllers often have a proprietary connection that requires a converter piece
+* Keyboard Video Mouse (KVM) switches give the ability for a single keyboard, monitor and mouse to connect multiple computers
+
+### Sight and Sound
+
+![Screen Shot 2021-11-11 at 6 20 44 AM](https://user-images.githubusercontent.com/63247801/141289915-1791182a-873a-4e19-9a0c-e8831c3184d1.png)
+![Screen Shot 2021-11-11 at 6 24 15 AM](https://user-images.githubusercontent.com/63247801/141290008-d0467d6f-7b68-4c93-baab-fd09b29c9826.png)
+
+#### Quick Review
+* Sound is commonly built into todays systems
+* Speaker systmes come into combinations with name like 2.1 or 5.1 systems.
+* Sound uses 3.5 mm jacks or SPDIF
+* Many devices like web cams or headsets, include speakers
+
+### Readers and Scanners
+
+![Screen Shot 2021-11-11 at 6 30 47 AM](https://user-images.githubusercontent.com/63247801/141290894-88fab9f1-2c8a-4abf-9a34-5b3a2313629a.png)
+Automated Document Feeder(ADF)
+Barcode/QR Code Scanners
+
+#### Quick Review
+
+* Smart cards/Magnetic readers are used to read cards
+* Flash memory readers read many types of flash memory
+* SD Cards are very popular flash memory
+* Scanners read paper documents. Automatic document feeders enable multiple pages to scan
+* Barcode and QR code scanners read printed coded labels
+
+### Using expansion cards
+
+#### Quick Review
+
+* Always handle expansion cards carefully, avoiding the contacts
+* Apply power, data connections or dongles as needed
+* Make sure to add the correct driver, check Device Manager to confirm good drivers
+* A new device installation is a common place for Blue Screen of Death screens
