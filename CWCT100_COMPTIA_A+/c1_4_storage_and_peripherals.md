@@ -5,7 +5,7 @@ parent:  CWCT CompTIA A+
 nav_order: 4
 ---
 
-
+![image](../CWCT_files/CompTIA_A+_4_Storage_Peripherals.png)
 
 
 # Storage and Peripherals
@@ -190,7 +190,7 @@ S.M.A.R.T. - if a drive starts to act up
 ### Universal Serial Bus (USB)
 
 * For exam, make sure you know USB speeds
-* 
+*
 ![Screen Shot 2021-11-11 at 5 49 17 AM](https://user-images.githubusercontent.com/63247801/141285452-28c7d772-2dda-4fb8-ade3-37019bd3ab27.png)
 
 
@@ -230,7 +230,7 @@ S.M.A.R.T. - if a drive starts to act up
 
 ### Thunder and Lightning
 
-Thunderbolt kind of a mix of PCIe and display: 
+Thunderbolt kind of a mix of PCIe and display:
 
 ![Screen Shot 2021-11-11 at 6 05 37 AM](https://user-images.githubusercontent.com/63247801/141287666-40422749-0c31-4f53-91ee-50f73518d4a2.png)
 ![Screen Shot 2021-11-11 at 6 06 16 AM](https://user-images.githubusercontent.com/63247801/141287758-089b0e7e-5f95-48fe-bc18-c66a0b77b675.png)
